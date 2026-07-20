@@ -1,12 +1,10 @@
-# 🏥 Patient Data Management System
-
 <div align="center">
+
+# 🏥 Patient Data Management System
 
 ![C# .NET](https://img.shields.io/badge/C%23-.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-2022-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Windows Forms](https://img.shields.io/badge/Windows_Forms-Desktop_App-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Bahria University](https://img.shields.io/badge/Bahria_University-DBMS_Lab-003087?style=for-the-badge)
-![Semester](https://img.shields.io/badge/4th_Semester-DBMS_Lab_Project-success?style=for-the-badge)
 
 A fully-featured **Hospital Patient Data Management System** built with **C# Windows Forms** and **SQL Server 2022**. The system provides complete CRUD operations across 9 modules — covering patient registration, electronic health records, appointment scheduling, billing, healthcare providers, and ward management — backed by advanced SQL constructs including Views, Stored Procedures, User-Defined Functions, and Triggers.
 
@@ -311,25 +309,12 @@ PATIENT_MANAGEMENT_SYSTEM/
 
 ---
 
-## 📚 Course Context
-
-| Detail | Info |
-|---|---|
-| **University** | Bahria University, Karachi Campus |
-| **Department** | Department of Computer Science |
-| **Course** | Database Management Systems Lab (CEL-212) |
-| **Semester** | 4th Semester |
-| **Class** | BSCS 4A |
-| **Group Members** | Anas Ahmed, Waqas, Hassan Ali |
-
----
-
 ## 📄 License
 
 ```
 MIT License
 
-Copyright (c) Patient Management System---2026 AnasQ2003
+Copyright (c) Patient Management System --- 2026 AnasQ2003
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
